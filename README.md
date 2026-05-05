@@ -127,4 +127,4 @@ russos-trattoria-analytics/
 
 DataMade is a freelance data analytics practice building SQL infrastructure, dashboards, and analytical narratives for small and mid-size businesses. This is Project 2 of an ongoing portfolio series.
 
-[Project 1 — CFPB HMDA Mortgage Denial Analysis](https://github.com/mahfuzkabir/cfpb-hmda-mortgage-eda)
+[DataMade Analytics Portfolio](https://github.com/pkabir22)
