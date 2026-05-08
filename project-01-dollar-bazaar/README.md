@@ -101,7 +101,6 @@ Built in **Google Looker Studio** with two interactive controls:
 
 🔗 **[View Live Dashboard →](https://datastudio.google.com/u/0/reporting/a0255248-0067-4bc7-ad9e-4eda6ed4f8c1/page/QMDwF)**
 
-![Dashboard Preview](dashboard-preview.png)
 
 ---
 
