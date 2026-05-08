@@ -1,0 +1,121 @@
+store_id,store_name,borough,owner,category,product,units_in_stock,reorder_threshold,unit_cost,stock_value,status
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Cleaning Supplies,All-Purpose Cleaner,93,28,1.45,134.85,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Cleaning Supplies,Sponge Pack 3ct,28,30,1.45,40.6,Low Stock
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Cleaning Supplies,Trash Bags 10ct,18,17,1.45,26.1,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Cleaning Supplies,Dish Soap 16oz,153,27,1.45,221.85,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Cleaning Supplies,Mop Refill,106,26,1.45,153.7,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Party & Seasonal,Birthday Candles,11,27,1.35,14.85,Low Stock
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Party & Seasonal,Balloons 12ct,130,35,1.35,175.5,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Party & Seasonal,Gift Wrap Roll,196,21,1.35,264.6,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Party & Seasonal,Holiday Decor Set,120,33,1.35,162.0,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Party & Seasonal,Paper Plates 20ct,16,18,1.35,21.6,Low Stock
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Kitchen & Dining,Plastic Containers 3pk,76,25,1.43,108.68,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Kitchen & Dining,Aluminum Foil Roll,178,40,1.43,254.54,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Kitchen & Dining,Kitchen Towels 2ct,71,26,1.43,101.53,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Kitchen & Dining,Plastic Utensils Set,161,18,1.43,230.23,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Kitchen & Dining,Cutting Board,109,24,1.43,155.87,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Personal Care,Shampoo 12oz,70,36,1.4,98.0,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Personal Care,Body Lotion 8oz,52,18,1.4,72.8,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Personal Care,Toothbrush 2pk,197,17,1.4,275.8,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Personal Care,Cotton Rounds 50ct,156,32,1.4,218.4,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Personal Care,Nail Polish Set,171,35,1.4,239.4,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Stationery,Notebook 80pg,108,22,0.96,103.68,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Stationery,Pen Pack 10ct,23,32,0.96,22.08,Low Stock
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Stationery,Sticky Notes 3pk,94,38,0.96,90.24,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Stationery,Scissors,107,19,0.96,102.72,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Stationery,Tape 2pk,169,20,0.96,162.24,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Toys & Games,Puzzle 100pc,86,20,1.68,144.48,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Toys & Games,Playing Cards,72,28,1.68,120.96,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Toys & Games,Jump Rope,153,32,1.68,257.04,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Toys & Games,Sticker Book,46,40,1.68,77.28,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Toys & Games,Mini Action Figure,111,18,1.68,186.48,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Food & Snacks,Instant Noodles,94,19,1.17,109.98,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Food & Snacks,Candy Mix 6oz,68,37,1.17,79.56,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Food & Snacks,Crackers Pack,70,24,1.17,81.9,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Food & Snacks,Juice Box 3pk,69,38,1.17,80.73,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Food & Snacks,Gummy Bears 4oz,25,18,1.17,29.25,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Health & Medicine,Bandage Pack 30ct,51,15,2.44,124.44,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Health & Medicine,Pain Reliever 24ct,26,19,2.44,63.44,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Health & Medicine,Vitamins 30ct,151,35,2.44,368.44,Overstocked
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Health & Medicine,Cold Medicine 12ct,75,40,2.44,183.0,OK
+S001,Dollar Bazaar - Rego Park,Queens,Alex,Health & Medicine,Eye Drops 0.5oz,95,15,2.44,231.8,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Cleaning Supplies,All-Purpose Cleaner,138,18,1.45,200.1,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Cleaning Supplies,Sponge Pack 3ct,122,30,1.45,176.9,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Cleaning Supplies,Trash Bags 10ct,57,32,1.45,82.65,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Cleaning Supplies,Dish Soap 16oz,179,26,1.45,259.55,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Cleaning Supplies,Mop Refill,155,19,1.45,224.75,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Party & Seasonal,Birthday Candles,23,36,1.35,31.05,Low Stock
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Party & Seasonal,Balloons 12ct,165,19,1.35,222.75,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Party & Seasonal,Gift Wrap Roll,92,19,1.35,124.2,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Party & Seasonal,Holiday Decor Set,171,30,1.35,230.85,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Party & Seasonal,Paper Plates 20ct,194,23,1.35,261.9,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Kitchen & Dining,Plastic Containers 3pk,48,24,1.43,68.64,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Kitchen & Dining,Aluminum Foil Roll,93,22,1.43,132.99,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Kitchen & Dining,Kitchen Towels 2ct,64,28,1.43,91.52,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Kitchen & Dining,Plastic Utensils Set,48,31,1.43,68.64,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Kitchen & Dining,Cutting Board,199,15,1.43,284.57,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Personal Care,Shampoo 12oz,194,39,1.4,271.6,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Personal Care,Body Lotion 8oz,26,18,1.4,36.4,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Personal Care,Toothbrush 2pk,98,39,1.4,137.2,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Personal Care,Cotton Rounds 50ct,86,27,1.4,120.4,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Personal Care,Nail Polish Set,137,30,1.4,191.8,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Stationery,Notebook 80pg,88,39,0.96,84.48,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Stationery,Pen Pack 10ct,64,22,0.96,61.44,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Stationery,Sticky Notes 3pk,129,29,0.96,123.84,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Stationery,Scissors,104,27,0.96,99.84,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Stationery,Tape 2pk,195,40,0.96,187.2,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Toys & Games,Puzzle 100pc,39,24,1.68,65.52,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Toys & Games,Playing Cards,156,20,1.68,262.08,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Toys & Games,Jump Rope,56,38,1.68,94.08,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Toys & Games,Sticker Book,24,38,1.68,40.32,Low Stock
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Toys & Games,Mini Action Figure,28,32,1.68,47.04,Low Stock
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Food & Snacks,Instant Noodles,181,19,1.17,211.77,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Food & Snacks,Candy Mix 6oz,171,34,1.17,200.07,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Food & Snacks,Crackers Pack,16,16,1.17,18.72,Low Stock
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Food & Snacks,Juice Box 3pk,83,28,1.17,97.11,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Food & Snacks,Gummy Bears 4oz,148,35,1.17,173.16,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Health & Medicine,Bandage Pack 30ct,48,34,2.44,117.12,OK
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Health & Medicine,Pain Reliever 24ct,23,33,2.44,56.12,Low Stock
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Health & Medicine,Vitamins 30ct,198,17,2.44,483.12,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Health & Medicine,Cold Medicine 12ct,190,39,2.44,463.6,Overstocked
+S002,Dollar Bazaar - Pomonok,Queens,Alex,Health & Medicine,Eye Drops 0.5oz,120,16,2.44,292.8,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Cleaning Supplies,All-Purpose Cleaner,129,21,1.45,187.05,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Cleaning Supplies,Sponge Pack 3ct,164,29,1.45,237.8,Overstocked
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Cleaning Supplies,Trash Bags 10ct,77,31,1.45,111.65,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Cleaning Supplies,Dish Soap 16oz,18,29,1.45,26.1,Low Stock
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Cleaning Supplies,Mop Refill,107,19,1.45,155.15,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Party & Seasonal,Birthday Candles,17,33,1.35,22.95,Low Stock
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Party & Seasonal,Balloons 12ct,48,32,1.35,64.8,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Party & Seasonal,Gift Wrap Roll,140,40,1.35,189.0,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Party & Seasonal,Holiday Decor Set,54,35,1.35,72.9,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Party & Seasonal,Paper Plates 20ct,76,15,1.35,102.6,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Kitchen & Dining,Plastic Containers 3pk,65,16,1.43,92.95,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Kitchen & Dining,Aluminum Foil Roll,126,22,1.43,180.18,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Kitchen & Dining,Kitchen Towels 2ct,71,31,1.43,101.53,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Kitchen & Dining,Plastic Utensils Set,139,40,1.43,198.77,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Kitchen & Dining,Cutting Board,136,22,1.43,194.48,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Personal Care,Shampoo 12oz,27,28,1.4,37.8,Low Stock
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Personal Care,Body Lotion 8oz,133,30,1.4,186.2,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Personal Care,Toothbrush 2pk,119,20,1.4,166.6,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Personal Care,Cotton Rounds 50ct,38,40,1.4,53.2,Low Stock
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Personal Care,Nail Polish Set,18,38,1.4,25.2,Low Stock
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Stationery,Notebook 80pg,103,31,0.96,98.88,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Stationery,Pen Pack 10ct,34,27,0.96,32.64,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Stationery,Sticky Notes 3pk,185,32,0.96,177.6,Overstocked
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Stationery,Scissors,122,16,0.96,117.12,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Stationery,Tape 2pk,133,39,0.96,127.68,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Toys & Games,Puzzle 100pc,18,30,1.68,30.24,Low Stock
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Toys & Games,Playing Cards,43,35,1.68,72.24,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Toys & Games,Jump Rope,40,38,1.68,67.2,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Toys & Games,Sticker Book,118,22,1.68,198.24,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Toys & Games,Mini Action Figure,94,19,1.68,157.92,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Food & Snacks,Instant Noodles,189,40,1.17,221.13,Overstocked
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Food & Snacks,Candy Mix 6oz,12,39,1.17,14.04,Low Stock
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Food & Snacks,Crackers Pack,112,31,1.17,131.04,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Food & Snacks,Juice Box 3pk,184,24,1.17,215.28,Overstocked
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Food & Snacks,Gummy Bears 4oz,152,30,1.17,177.84,Overstocked
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Health & Medicine,Bandage Pack 30ct,126,38,2.44,307.44,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Health & Medicine,Pain Reliever 24ct,145,28,2.44,353.8,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Health & Medicine,Vitamins 30ct,193,21,2.44,470.92,Overstocked
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Health & Medicine,Cold Medicine 12ct,88,15,2.44,214.72,OK
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,Health & Medicine,Eye Drops 0.5oz,181,17,2.44,441.64,Overstocked

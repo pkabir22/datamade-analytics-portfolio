@@ -1,0 +1,73 @@
+store_id,store_name,borough,owner,year,month,month_name,rent,labor,utilities,misc_expenses,total_expenses
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,1,January,4200,6730,477,289,11696
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,2,February,4200,6738,475,326,11739
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,3,March,4200,6864,472,333,11869
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,4,April,4200,6681,429,223,11533
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,5,May,4200,6724,399,358,11681
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,6,June,4200,6715,458,331,11704
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,7,July,4200,6891,473,172,11736
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,8,August,4200,7022,422,308,11952
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,9,September,4200,6928,477,404,12009
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,10,October,4200,6616,428,406,11650
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,11,November,4200,6678,480,373,11731
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2024,12,December,4200,6685,416,328,11629
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,1,January,4326,7047,404,338,12115
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,2,February,4326,6932,412,184,11854
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,3,March,4326,7032,434,178,11970
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,4,April,4326,6780,465,340,11911
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,5,May,4326,6777,479,428,12010
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,6,June,4326,7085,470,447,12328
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,7,July,4326,6621,477,180,11604
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,8,August,4326,6904,469,426,12125
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,9,September,4326,7037,438,432,12233
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,10,October,4326,6703,436,447,11912
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,11,November,4326,6818,427,430,12001
+S001,Dollar Bazaar - Rego Park,Queens,Alex,2025,12,December,4326,6847,406,151,11730
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,1,January,3600,5864,437,184,10085
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,2,February,3600,5813,411,256,10080
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,3,March,3600,5732,362,450,10144
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,4,April,3600,5830,415,369,10214
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,5,May,3600,6056,392,214,10262
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,6,June,3600,5920,398,289,10207
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,7,July,3600,5798,356,395,10149
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,8,August,3600,5708,420,277,10005
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,9,September,3600,6021,364,276,10261
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,10,October,3600,5783,421,214,10018
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,11,November,3600,5724,398,395,10117
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2024,12,December,3600,5972,439,441,10452
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,1,January,3708,6106,403,447,10664
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,2,February,3708,6096,353,174,10331
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,3,March,3708,5922,379,372,10381
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,4,April,3708,5825,422,165,10120
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,5,May,3708,5735,428,382,10253
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,6,June,3708,5949,435,169,10261
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,7,July,3708,6093,360,187,10348
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,8,August,3708,5767,363,284,10122
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,9,September,3708,5761,434,158,10061
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,10,October,3708,5911,427,257,10303
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,11,November,3708,5950,355,369,10382
+S002,Dollar Bazaar - Pomonok,Queens,Alex,2025,12,December,3708,6077,419,413,10617
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,1,January,5100,7743,528,153,13524
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,2,February,5100,8060,560,404,14124
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,3,March,5100,7741,498,327,13666
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,4,April,5100,8004,545,283,13932
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,5,May,5100,7708,562,315,13685
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,6,June,5100,7912,550,256,13818
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,7,July,5100,7624,523,283,13530
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,8,August,5100,7941,538,412,13991
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,9,September,5100,7609,559,402,13670
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,10,October,5100,7946,518,318,13882
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,11,November,5100,7879,570,194,13743
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2024,12,December,5100,8086,551,371,14108
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,1,January,5253,7794,528,251,13826
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,2,February,5253,8043,508,177,13981
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,3,March,5253,7787,485,266,13791
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,4,April,5253,7654,568,171,13646
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,5,May,5253,7778,504,354,13889
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,6,June,5253,7949,529,350,14081
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,7,July,5253,7816,509,317,13895
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,8,August,5253,7951,568,173,13945
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,9,September,5253,7627,560,161,13601
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,10,October,5253,7622,564,293,13732
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,11,November,5253,7722,486,395,13856
+S003,Dollar Bazaar - Brooklyn,Brooklyn,Alex,2025,12,December,5253,8040,543,293,14129
