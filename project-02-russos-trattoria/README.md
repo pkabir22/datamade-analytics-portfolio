@@ -123,7 +123,7 @@ russos-trattoria-analytics/
 
 ---
 
-## About DataMade Analytics
+## About DataMade
 
 DataMade is a freelance data analytics practice building SQL infrastructure, dashboards, and analytical narratives for small and mid-size businesses. This is Project 2 of an ongoing portfolio series.
 
