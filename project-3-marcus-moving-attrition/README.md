@@ -1,7 +1,6 @@
 # Marcus Moving Co. — Workforce Attrition Analysis
 
 **Client:** Marcus Moving & Storage, Queens NY  
-**Analyst:** [DataMade.co](https://datamade.co)  
 **Period:** January 2022 – April 2026  
 **Stack:** Python · Snowflake · Tableau Public  
 
