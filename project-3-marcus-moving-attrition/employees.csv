@@ -1,0 +1,186 @@
+employee_id,name,role,department,hire_date,termination_date,termination_type,hourly_rate,manager_id,status
+1,Chris Martin,Mover,Crew Ops,2022-02-21,,,18.2,140.0,Active
+2,Yusuf Garcia,Manager,Crew Ops,2022-07-29,,,25.4,,Active
+3,Jamal Mitchell,Dispatcher,Dispatch,2022-03-07,2023-01-07,Voluntary,20.54,183.0,Terminated
+4,Marcus Reed,Mover,Crew Ops,2024-07-08,,,17.1,56.0,Active
+5,Diana Young,Driver,Crew Ops,2025-11-30,2026-04-30,Voluntary,24.45,179.0,Terminated
+6,Yusuf Wilson,Driver,Crew Ops,2022-03-30,,,22.83,183.0,Active
+7,Victor Sanchez,Driver,Crew Ops,2024-02-15,2024-11-15,Voluntary,25.78,135.0,Terminated
+8,Angela Parker,Front Desk,Admin,2025-09-16,2026-04-30,Voluntary,16.35,34.0,Terminated
+9,Rodney Thompson,Mover,Crew Ops,2022-11-30,2024-01-30,Voluntary,19.17,140.0,Terminated
+10,Jorge Brown,Dispatcher,Dispatch,2024-02-17,2026-02-17,Involuntary,17.98,12.0,Terminated
+11,Nicole Clark,Driver,Crew Ops,2022-03-07,,,19.83,141.0,Active
+12,Sofia Harris,Manager,Crew Ops,2025-03-07,,,24.66,,Active
+13,Brandon Green,Front Desk,Admin,2024-03-21,,,19.28,2.0,Active
+14,Keisha Martin,Driver,Crew Ops,2022-10-13,2025-04-13,Voluntary,19.14,151.0,Terminated
+15,Rosa Phillips,Driver,Crew Ops,2022-10-11,2024-01-11,Involuntary,25.98,34.0,Terminated
+16,Rodney Wilson,Driver,Crew Ops,2024-02-21,2026-04-30,Voluntary,18.51,113.0,Terminated
+17,Jorge Evans,Mover,Crew Ops,2025-01-04,,,18.41,141.0,Active
+18,Sam Reed,Mover,Crew Ops,2023-08-25,2024-11-25,Voluntary,16.7,140.0,Terminated
+19,Alex Parker,Mover,Crew Ops,2022-08-06,,,15.89,141.0,Active
+20,Marcus Phillips,Driver,Crew Ops,2023-02-12,2025-08-12,Voluntary,22.06,105.0,Terminated
+21,Chris Roberts,Mover,Crew Ops,2022-02-09,2023-09-09,Voluntary,16.62,35.0,Terminated
+22,Andre Reed,Driver,Crew Ops,2022-06-25,,,25.58,140.0,Active
+23,Yusuf Reed,Driver,Crew Ops,2022-09-15,2024-02-15,Involuntary,22.26,2.0,Terminated
+24,Nicole Edwards,Mover,Crew Ops,2023-02-16,,,18.65,113.0,Active
+25,Lisa Wilson,Mover,Crew Ops,2024-06-16,,,18.25,51.0,Active
+26,Luis Allen,Front Desk,Admin,2022-05-12,2023-01-12,Voluntary,17.24,151.0,Terminated
+27,Chen Adams,Driver,Crew Ops,2023-05-03,2024-11-03,Involuntary,18.57,135.0,Terminated
+28,Victor Martinez,Mover,Crew Ops,2024-08-26,,,16.21,34.0,Active
+29,Rodney Allen,Mover,Crew Ops,2024-06-01,2025-01-01,Voluntary,15.48,141.0,Terminated
+30,Andre Scott,Driver,Crew Ops,2022-08-12,2024-02-12,Voluntary,24.4,35.0,Terminated
+31,Chris Thomas,Mover,Crew Ops,2025-02-01,2025-01-01,Involuntary,19.04,56.0,Terminated
+32,Angela Lewis,Driver,Crew Ops,2024-09-12,2026-02-12,Voluntary,21.25,141.0,Terminated
+33,Raj Anderson,Driver,Crew Ops,2025-02-12,,,21.38,140.0,Active
+34,Wei Rogers,Manager,Crew Ops,2023-03-22,,,25.9,,Active
+35,Sam Garcia,Manager,Crew Ops,2023-10-05,2025-04-05,Voluntary,29.42,,Terminated
+36,Terrell Thompson,Front Desk,Admin,2022-05-21,,,20.26,179.0,Active
+37,Tariq Hall,Mover,Crew Ops,2025-03-12,2025-11-12,Voluntary,17.02,34.0,Terminated
+38,Sofia Thompson,Driver,Crew Ops,2023-02-23,,,25.48,140.0,Active
+39,Alex Green,Dispatcher,Dispatch,2022-09-26,,,18.59,105.0,Active
+40,Ray Young,Mover,Crew Ops,2022-05-29,2024-01-29,Voluntary,16.58,113.0,Terminated
+41,Brandon Carter,Driver,Crew Ops,2023-05-16,2023-12-16,Voluntary,25.05,56.0,Terminated
+42,Hector Perez,Mover,Crew Ops,2025-02-09,2025-01-09,Involuntary,15.04,113.0,Terminated
+43,Curtis Allen,Driver,Crew Ops,2023-08-01,,,19.24,51.0,Active
+44,Sam Baker,Manager,Crew Ops,2025-07-22,,,26.04,,Active
+45,Jason Thomas,Driver,Crew Ops,2022-04-15,2023-04-15,Voluntary,20.01,34.0,Terminated
+46,Ibrahim Johnson,Dispatcher,Dispatch,2025-02-03,,,21.45,179.0,Active
+47,Yusuf Williams,Mover,Crew Ops,2025-11-16,,,15.56,35.0,Active
+48,Rosa Taylor,Mover,Crew Ops,2025-04-07,,,19.17,179.0,Active
+49,Luis Young,Mover,Crew Ops,2024-01-17,,,15.21,179.0,Active
+50,Diana Cook,Driver,Crew Ops,2023-05-27,,,19.68,53.0,Active
+51,Hector Anderson,Manager,Crew Ops,2024-04-12,,,29.6,,Active
+52,Darnell Lopez,Front Desk,Admin,2023-04-30,,,20.63,135.0,Active
+53,Sandra Edwards,Manager,Crew Ops,2023-11-12,,,24.25,,Active
+54,Angela Young,Front Desk,Admin,2023-05-24,2024-06-24,Voluntary,20.32,135.0,Terminated
+55,Brian Young,Mover,Crew Ops,2023-04-12,2024-12-12,Involuntary,16.53,44.0,Terminated
+56,Yusuf Allen,Manager,Crew Ops,2024-03-29,,,30.41,,Active
+57,Jason Jackson,Driver,Crew Ops,2022-08-25,,,25.51,56.0,Active
+58,Tony King,Driver,Crew Ops,2023-06-28,2025-04-28,Involuntary,22.64,35.0,Terminated
+59,Hector Edwards,Driver,Crew Ops,2023-01-25,2025-06-25,Involuntary,25.2,44.0,Terminated
+60,Alex Nelson,Mover,Crew Ops,2024-06-02,2026-04-02,Voluntary,15.99,70.0,Terminated
+61,Darnell Campbell,Mover,Crew Ops,2024-04-16,2025-02-16,Voluntary,16.55,53.0,Terminated
+62,Sofia Green,Driver,Crew Ops,2024-04-11,2026-04-30,Voluntary,22.55,51.0,Terminated
+63,Mike Lewis,Front Desk,Admin,2025-10-15,2026-01-15,Voluntary,18.21,44.0,Terminated
+64,Mike Reed,Mover,Crew Ops,2025-07-20,,,17.58,34.0,Active
+65,Jorge Davis,Driver,Crew Ops,2023-09-28,2025-04-28,Voluntary,19.88,51.0,Terminated
+66,Curtis Stewart,Mover,Crew Ops,2025-07-13,,,17.28,155.0,Active
+67,Jamal Carter,Driver,Crew Ops,2024-03-29,2025-06-29,Voluntary,21.07,151.0,Terminated
+68,Ibrahim Phillips,Front Desk,Admin,2025-02-15,2026-02-15,Voluntary,18.32,151.0,Terminated
+69,Rodney Nelson,Driver,Crew Ops,2024-06-25,,,20.54,113.0,Active
+70,Jerome Rogers,Manager,Crew Ops,2025-01-27,,,28.27,,Active
+71,Tyler Thompson,Front Desk,Admin,2024-07-10,2025-01-10,Voluntary,20.31,113.0,Terminated
+72,Chris Clark,Driver,Crew Ops,2022-06-08,,,20.2,44.0,Active
+73,Sandra Allen,Driver,Crew Ops,2025-01-11,2026-04-30,Voluntary,20.69,151.0,Terminated
+74,Pablo Roberts,Front Desk,Admin,2024-05-01,2026-04-30,Voluntary,18.71,34.0,Terminated
+75,Alex Reed,Dispatcher,Dispatch,2022-01-13,,,19.28,155.0,Active
+76,Hector Mitchell,Dispatcher,Dispatch,2024-05-08,,,19.34,151.0,Active
+77,Brian Hill,Front Desk,Admin,2023-03-28,,,20.0,105.0,Active
+78,Dmitri Mitchell,Driver,Crew Ops,2024-03-07,2025-08-07,Involuntary,21.89,70.0,Terminated
+79,Malik Rivera,Mover,Crew Ops,2024-03-17,,,15.13,12.0,Active
+80,Maria Reed,Driver,Crew Ops,2024-05-27,2026-04-30,Voluntary,18.67,135.0,Terminated
+81,Sandra Robinson,Front Desk,Admin,2023-07-24,,,20.4,179.0,Active
+82,Luis Reed,Mover,Crew Ops,2024-08-21,2025-07-21,Voluntary,19.17,34.0,Terminated
+83,Sean Green,Mover,Crew Ops,2023-05-22,2024-09-22,Voluntary,15.16,105.0,Terminated
+84,Carlos Turner,Driver,Crew Ops,2024-01-26,2025-01-26,Involuntary,23.6,151.0,Terminated
+85,Tanya Wright,Mover,Crew Ops,2023-10-01,,,15.13,151.0,Active
+86,Amir Wilson,Mover,Crew Ops,2023-02-11,2025-02-11,Involuntary,19.71,12.0,Terminated
+87,Diana Mitchell,Dispatcher,Dispatch,2025-03-05,,,21.78,12.0,Active
+88,Keisha Parker,Mover,Crew Ops,2024-01-29,2026-02-28,Voluntary,17.14,135.0,Terminated
+89,Rosa Jackson,Front Desk,Admin,2024-07-30,,,20.46,105.0,Active
+90,Rodney Turner,Mover,Crew Ops,2025-08-25,2026-02-25,Voluntary,18.67,34.0,Terminated
+91,Mike Clark,Driver,Crew Ops,2023-05-18,,,20.15,34.0,Active
+92,Chen Campbell,Dispatcher,Dispatch,2023-05-15,,,22.29,179.0,Active
+93,Brian Phillips,Dispatcher,Dispatch,2023-11-20,2025-05-20,Voluntary,21.01,140.0,Terminated
+94,Tariq White,Mover,Crew Ops,2023-07-20,,,18.51,151.0,Active
+95,James Garcia,Front Desk,Admin,2026-01-14,2026-04-30,Voluntary,16.43,183.0,Terminated
+96,Alex Edwards,Mover,Crew Ops,2024-04-08,,,16.47,12.0,Active
+97,Diana Hill,Mover,Crew Ops,2024-08-27,,,17.91,151.0,Active
+98,Pablo Stewart,Mover,Crew Ops,2025-02-01,2026-01-01,Voluntary,19.98,53.0,Terminated
+99,Brian Morris,Driver,Crew Ops,2023-03-20,,,19.48,113.0,Active
+100,Marcus Sanchez,Driver,Crew Ops,2024-12-10,2026-02-10,Voluntary,22.72,155.0,Terminated
+101,Carlos Johnson,Driver,Crew Ops,2023-07-16,2024-11-16,Involuntary,22.27,179.0,Terminated
+102,Andre Wright,Mover,Crew Ops,2024-08-19,2025-02-19,Voluntary,17.87,44.0,Terminated
+103,Devon Anderson,Mover,Crew Ops,2025-03-27,,,17.46,12.0,Active
+104,Mike Thompson,Mover,Crew Ops,2025-02-26,,,15.75,151.0,Active
+105,Dmitri Martin,Manager,Crew Ops,2024-05-02,,,25.18,,Active
+106,Dmitri Brown,Driver,Crew Ops,2024-02-19,2025-02-19,Voluntary,24.21,35.0,Terminated
+107,Sean Parker,Mover,Crew Ops,2022-07-23,,,18.05,113.0,Active
+108,Amir Adams,Dispatcher,Dispatch,2025-09-14,2025-02-14,Voluntary,18.27,34.0,Terminated
+109,Tyler Turner,Driver,Crew Ops,2023-04-20,2024-01-20,Involuntary,20.33,179.0,Terminated
+110,Andre Brown,Driver,Crew Ops,2023-02-10,2024-12-10,Involuntary,23.29,51.0,Terminated
+111,Alex Stewart,Driver,Crew Ops,2023-09-22,2025-10-22,Voluntary,19.33,12.0,Terminated
+112,Amir Robinson,Driver,Crew Ops,2023-07-12,2024-08-12,Voluntary,21.22,56.0,Terminated
+113,Chen Turner,Manager,Crew Ops,2023-04-14,,,24.26,,Active
+114,Chen Williams,Front Desk,Admin,2025-10-08,,,20.75,151.0,Active
+115,Raj Garcia,Mover,Crew Ops,2022-12-25,2025-02-25,Voluntary,18.82,151.0,Terminated
+116,Omar Edwards,Front Desk,Admin,2024-04-16,2025-08-16,Voluntary,18.35,179.0,Terminated
+117,Sam Johnson,Front Desk,Admin,2025-01-31,2026-04-30,Voluntary,20.73,179.0,Terminated
+118,Lisa Reed,Driver,Crew Ops,2025-01-16,2025-03-16,Voluntary,23.26,51.0,Terminated
+119,Omar Scott,Front Desk,Admin,2023-07-01,,,16.26,135.0,Active
+120,Marcus Perez,Mover,Crew Ops,2024-09-19,2026-01-19,Voluntary,19.4,135.0,Terminated
+121,Tony Green,Front Desk,Admin,2023-04-06,,,18.04,105.0,Active
+122,Raj Sanchez,Front Desk,Admin,2025-08-19,,,20.74,140.0,Active
+123,Amir Nelson,Mover,Crew Ops,2025-12-15,2026-01-15,Voluntary,16.46,141.0,Terminated
+124,Brian Cook,Driver,Crew Ops,2022-10-07,,,23.97,113.0,Active
+125,Wei Edwards,Driver,Crew Ops,2024-04-29,2025-02-28,Involuntary,24.32,12.0,Terminated
+126,Victor Stewart,Mover,Crew Ops,2022-11-01,2025-04-01,Involuntary,17.45,113.0,Terminated
+127,Tanya Edwards,Front Desk,Admin,2024-02-24,2026-04-30,Involuntary,17.19,34.0,Terminated
+128,Raj Williams,Front Desk,Admin,2025-08-28,,,19.96,113.0,Active
+129,Kevin Lopez,Driver,Crew Ops,2025-04-23,2025-02-23,Voluntary,19.01,35.0,Terminated
+130,Terrell Mitchell,Mover,Crew Ops,2022-11-13,2024-11-13,Involuntary,19.35,183.0,Terminated
+131,Pablo Baker,Mover,Crew Ops,2023-10-11,,,16.9,140.0,Active
+132,Chris Parker,Driver,Crew Ops,2022-03-15,,,24.98,105.0,Active
+133,Hector Garcia,Driver,Crew Ops,2023-08-12,,,23.48,70.0,Active
+134,Curtis Martinez,Mover,Crew Ops,2022-07-21,,,17.17,44.0,Active
+135,James Williams,Manager,Crew Ops,2025-11-22,,,28.44,,Active
+136,Darnell Thomas,Mover,Crew Ops,2022-04-25,2024-08-25,Voluntary,16.62,113.0,Terminated
+137,Dmitri Collins,Mover,Crew Ops,2025-06-02,,,15.88,34.0,Active
+138,Jerome Davis,Dispatcher,Dispatch,2025-04-09,2026-04-30,Involuntary,18.44,44.0,Terminated
+139,Rosa Stewart,Mover,Crew Ops,2023-12-09,,,17.21,135.0,Active
+140,Jamal Lewis,Manager,Crew Ops,2023-09-11,2024-02-11,Voluntary,26.5,,Terminated
+141,Marcus Roberts,Manager,Crew Ops,2025-09-10,,,24.22,,Active
+142,Hector Baker,Driver,Crew Ops,2022-04-11,,,24.92,105.0,Active
+143,Eddie Phillips,Mover,Crew Ops,2023-08-10,,,19.16,140.0,Active
+144,Dmitri Robinson,Mover,Crew Ops,2023-03-25,,,19.01,44.0,Active
+145,Terrell Taylor,Driver,Crew Ops,2026-01-16,,,23.42,34.0,Active
+146,Alex Scott,Driver,Crew Ops,2025-07-09,,,23.03,105.0,Active
+147,Sofia Rogers,Mover,Crew Ops,2024-01-18,,,15.17,183.0,Active
+148,Jerome Robinson,Mover,Crew Ops,2023-02-16,2024-11-16,Involuntary,17.08,140.0,Terminated
+149,Omar Rogers,Driver,Crew Ops,2024-09-13,,,25.31,113.0,Active
+150,Ibrahim Hernandez,Driver,Crew Ops,2022-08-24,2023-02-24,Involuntary,24.96,44.0,Terminated
+151,Wei King,Manager,Crew Ops,2024-03-19,2025-05-19,Voluntary,24.9,,Terminated
+152,Brandon Davis,Driver,Crew Ops,2024-01-31,2026-04-30,Voluntary,24.58,179.0,Terminated
+153,Alex Evans,Driver,Crew Ops,2024-08-08,,,23.08,34.0,Active
+154,Ray King,Mover,Crew Ops,2022-10-14,2023-01-14,Involuntary,17.04,141.0,Terminated
+155,Sandra Turner,Manager,Crew Ops,2025-10-05,,,28.54,,Active
+156,Brandon Martinez,Driver,Crew Ops,2022-11-13,,,23.94,179.0,Active
+157,Brian Williams,Dispatcher,Dispatch,2025-06-14,,,22.0,135.0,Active
+158,Chris Hernandez,Dispatcher,Dispatch,2023-03-21,,,21.14,2.0,Active
+159,Mike Edwards,Driver,Crew Ops,2025-11-05,2026-02-05,Voluntary,18.79,135.0,Terminated
+160,James Brown,Dispatcher,Dispatch,2025-08-02,,,18.27,105.0,Active
+161,Chen Harris,Mover,Crew Ops,2023-05-14,,,18.93,51.0,Active
+162,Amir Johnson,Mover,Crew Ops,2025-02-09,2025-06-09,Voluntary,15.34,53.0,Terminated
+163,Yusuf Robinson,Mover,Crew Ops,2022-10-24,,,16.39,113.0,Active
+164,James Taylor,Mover,Crew Ops,2022-08-14,,,18.99,155.0,Active
+165,Hector Davis,Driver,Crew Ops,2023-05-03,2024-09-03,Voluntary,18.12,53.0,Terminated
+166,Carlos Scott,Front Desk,Admin,2024-01-12,,,18.38,56.0,Active
+167,Priya Wright,Mover,Crew Ops,2025-06-13,2026-02-13,Voluntary,17.52,44.0,Terminated
+168,Ray Clark,Driver,Crew Ops,2022-08-10,2023-10-10,Voluntary,21.41,44.0,Terminated
+169,Amir Hill,Driver,Crew Ops,2025-04-13,2025-09-13,Voluntary,22.99,34.0,Terminated
+170,Rosa Scott,Mover,Crew Ops,2025-12-08,2026-03-08,Involuntary,15.5,105.0,Terminated
+171,Jason Hernandez,Dispatcher,Dispatch,2024-04-27,2025-07-27,Voluntary,22.33,35.0,Terminated
+172,Andre Garcia,Driver,Crew Ops,2025-11-07,,,25.63,179.0,Active
+173,Ibrahim Perez,Mover,Crew Ops,2022-07-10,2023-11-10,Voluntary,19.16,183.0,Terminated
+174,Devon Lewis,Driver,Crew Ops,2022-09-08,2025-11-08,Involuntary,20.64,179.0,Terminated
+175,Tony Reed,Mover,Crew Ops,2023-12-22,2026-01-22,Voluntary,18.0,12.0,Terminated
+176,Ibrahim Cook,Driver,Crew Ops,2023-04-09,,,20.23,113.0,Active
+177,Ibrahim Rivera,Dispatcher,Dispatch,2025-06-10,,,21.91,44.0,Active
+178,Brian Rivera,Mover,Crew Ops,2025-09-09,,,18.04,140.0,Active
+179,Maria Young,Manager,Crew Ops,2025-12-10,,,25.8,,Active
+180,Angela Allen,Driver,Crew Ops,2022-10-21,2023-01-21,Voluntary,18.05,44.0,Terminated
+181,Jorge Roberts,Mover,Crew Ops,2023-10-01,,,15.79,51.0,Active
+182,Lisa Lopez,Driver,Crew Ops,2022-04-18,2023-02-18,Voluntary,22.77,51.0,Terminated
+183,Luis Martin,Manager,Crew Ops,2024-11-15,2026-04-30,Voluntary,26.73,,Terminated
+184,Omar Hall,Front Desk,Admin,2025-05-12,2025-08-12,Involuntary,17.98,51.0,Terminated
+185,Darnell Taylor,Driver,Crew Ops,2024-10-15,,,18.96,151.0,Active
