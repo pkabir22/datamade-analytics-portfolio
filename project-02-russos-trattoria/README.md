@@ -155,12 +155,14 @@ datamade-analytics-portfolio/
     ├── hourly_heatmap.csv            ← Revenue by hour and day of week
     └── server_performance.csv        ← Server revenue and upsell metrics
 ```
+---
+
+## About DataMade
+
+DataMade is a freelance data analytics practice building dashboards, automated reports, and analytics solutions for small businesses and independent operators. This is Project 1 of an ongoing portfolio series.
+
+[View full DataMade Analytics Portfolio](https://github.com/pkabir22/datamade-analytics-portfolio)
 
 ---
 
-## 10. About DataMade Analytics
-
-**DataMade** is a freelance data analytics practice helping small and mid-size businesses turn raw operational data into clear, actionable insight. Every engagement covers the full stack — data modeling, SQL infrastructure, and visual storytelling — delivered as a portfolio-grade case study.
-
-**Portfolio:** [datamade.co](https://datamade.co)
-**GitHub:** [github.com/pkabir22/datamade-analytics-portfolio](https://github.com/pkabir22/datamade-analytics-portfolio)
+*Built by [DataMade](https://datamade.co) · BI & Analytics Consulting · New York, NY*
